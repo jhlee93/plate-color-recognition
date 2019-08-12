@@ -1,3 +1,4 @@
 # License Plate Color Recognition
 
-### Implementation : (https://github.com/ahmetozlu/color_recognition)
+#Reference
+- [color_recognition](https://github.com/ahmetozlu/color_recognition)
